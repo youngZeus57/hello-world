@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-	<h2> Sean is here </h2>
+	<h2> Sean is here checking for auto update </h2>
   
 </form>
