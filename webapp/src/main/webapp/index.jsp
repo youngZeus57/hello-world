@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
-	<h2> Sean is here checking for auto update using docker test. docker test2. ansible test. test 8082 </h2>
+   <h1> Thank you, Happy Learning </h1>
+	<h2> ansible test </h2>
   
 </form>
