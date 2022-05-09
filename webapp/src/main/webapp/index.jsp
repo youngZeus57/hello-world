@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank you, Happy Learning </h1>
-	<h2> ansible test kube test. Test CI CD  </h2>
+	<h2> complete CICD  </h2>
   
 </form>
